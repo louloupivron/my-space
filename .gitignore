@@ -1,7 +1,16 @@
 .venv/
 dist/
 _build/
+_output/
 .jupyterlite.doit.db
+*.doit.db
 *.pyc
 __pycache__/
+*.bundle.*
+lib/
+node_modules/
+.yarn-packages/
+*.egg-info/
+.ipynb_checkpoints
+*.tsbuildinfo
 .DS_Store
